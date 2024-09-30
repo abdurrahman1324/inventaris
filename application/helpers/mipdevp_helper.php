@@ -4,8 +4,8 @@ function configemail()
     $config = [
         'protocol'      => 'smtp',
         'smtp_host'     => 'ssl://smtp.gmail.com',
-        'smtp_user'     => 'inventorybeljar@gmail.com',
-        'smtp_pass'     => 'keqn ngcf dnaj jvdq',
+        'smtp_user'     => 'Isi email sendiriya@gmail.com',//email sendiri
+        'smtp_pass'     => 'keqn ngcf dnaj jvdq',//ambil dari goggle
         'smtp_port'     => 465, 
         'wordwrap'      => TRUE,
         'mailtype'      => 'html',
